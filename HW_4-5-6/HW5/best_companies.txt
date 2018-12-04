@@ -1,0 +1,15 @@
+         sector         | acronym |         company         |  net_worth  
+------------------------+---------+-------------------------+-------------
+ Consumer Discretionary | DIS     | The Walt Disney Company | 43265000000
+ Information Technology | V       | Visa Inc.               | 32912000000
+ Industrials            | FDX     | FedEx Corporation       | 13784000000
+ Consumer Discretionary | NKE     | Nike                    | 12258000000
+ Materials              | WRK     | WestRock Company        |  9728800000
+ Health Care            | BDX     | Becton Dickinson        |  7633000000
+ Information Technology | AMAT    | Applied Materials Inc   |  7217000000
+ Consumer Staples       | SJM     | JM Smucker              |  7008500000
+ Consumer Discretionary | DHI     | D. R. Horton            |  6792500000
+ Consumer Staples       | STZ     | Constellation Brands    |  6559600000
+
+
+These companies are best to invest in because they have highest net_worth from all of the potential_candidates companies.
